@@ -1,15 +1,32 @@
+
 .mlk-picture {
-    opacity: 0.5;
-    margin: auto;
+    max-width: 100%;
+    margin: 0 auto;
     height: auto;
+  
 }
 
+.caption {
+    text-align: center;
+    margin-top: 5px;
+    
+}
+
+html,
 body {
-    font-size: 23px;
-    background-color: #a6a6a6;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    font-family: 'Oswald', sans-serif;
 }
 
 h1 {
     text-align: center;
+    margin: 7px;
 }
   
+p {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin: 5px;
+}
