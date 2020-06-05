@@ -2,6 +2,7 @@
 #img-div {
     padding: 10px;
     margin: 0;
+    background-color: rgb(250, 250, 250);
 }
 
 #mlk-picture {
@@ -16,7 +17,7 @@
     margin-top: 5px;
     font-style: italic;
     padding: 0 auto;
-    font-size: 17px;
+    font-size: 20px;
 }
 
 html,
@@ -25,11 +26,10 @@ body {
     background-color: #ffffffdc;
     font-family: 'Raleway', sans-serif;
     max-width: auto;
-    
 }
 
 .upper {
-    background-color: rgba(163, 163, 163, 0.932);
+    
     width: 100%;
     padding: 0 auto;
 }
@@ -47,6 +47,7 @@ p {
 
 #tribute-info {
     text-align: center;
+    
 }
 
 h3 {
@@ -56,6 +57,15 @@ h3 {
 
 #timeline {
     text-align: left;
-    padding-left: 25%;
-    padding-right: 25%;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+blockquote {
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+blockquote p {
+    font-size: 25px;
 }
