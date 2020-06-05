@@ -63,10 +63,12 @@ h3 {
 }
 
 blockquote {
-    padding-left: 35%;
-    padding-right: 35%;
+    padding-left: 25%;
+    padding-right: 25%;
+    margin: 80px 80px;
 }
 
 blockquote p {
     font-size: 25px;
+    margin-top: 80px;
 }
